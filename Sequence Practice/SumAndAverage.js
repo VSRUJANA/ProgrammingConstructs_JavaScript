@@ -13,4 +13,3 @@ for (i = 0; i < 5; i++)
 }
 console.log("Sum : " + sum);
 console.log("Average : " + sum / 5);
-console.log('-'.repeat(process.stdout.columns));
